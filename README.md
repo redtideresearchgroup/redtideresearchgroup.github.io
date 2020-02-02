@@ -1,6 +1,6 @@
 ## Welcome to Red Tide Research Group's GitHub Pages
 
-  The goal here is to have a website for Red Tide Researchers to collaborate.
+  The goal here is to have a website for Red Tide Researcher's to collaborate.  Just starting.
 
 
 
