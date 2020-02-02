@@ -3,6 +3,8 @@
   The goal here is to have a website for Red Tide Researcher's to collaborate.  Just starting.
 
    First goal is to link google colab stuff here
+   
+   https://github.com/redtideresearchgroup/redtideresearchgroup.github.io/blob/master/MassiveBrevisDataCSV.ipynb
 
 You can use the [editor on GitHub](https://github.com/redtideresearchgroup/redtideresearchgroup.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
